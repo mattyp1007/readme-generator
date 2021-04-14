@@ -1,8 +1,8 @@
-# lllllllllllllll
+# Sample Project
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ## Description
-aaaaa
+This is the description for the sample project!
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,19 +13,20 @@ aaaaa
 - [Questions](#questions)
 
 ## Installation
-qqqqqqq
+Here are some instructions for installing the project.
 
 ## Usage
-wafegrf
+Usage info is written here.
 ## License
-  This project is covered under the MIT license:
-https://opensource.org/licenses/MIT
+  This project is covered under the GPL v3 license:
+https://www.gnu.org/licenses/gpl-3.0
 ## Contributing
-asef
+Guidelines for contributing go here.
 ## Tests
-gewf
+Testing instructions go here.
 
 ## Questions
+mattyp1007
 
-sdvrfvsd
+example@gmail.com
 
